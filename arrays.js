@@ -23,8 +23,8 @@ var chocolateBars = [
   }
   
   function accessElementInArray(array, index){
-    console.log(array[index])
-    return array
+   return  console.log(array[index])
+    
   }
   
  function destructivelyRemoveElementFromBeginningOfArray(array){
